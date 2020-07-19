@@ -1,3 +1,5 @@
+기존의 NARM 코드에 transition-based vector를 더한 
+
 # Neural-Attentive-Session-Based-Recommendation-PyTorch
 A PyTorch implementation of the NARM model in [Neural Attentive Session Based Recommendation](https://arxiv.org/abs/1711.04725) (Li, Jing, et al. "Neural attentive session-based recommendation." Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017).
 
